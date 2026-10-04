@@ -1,0 +1,1 @@
+# Azurehaven Island\n\nComplete low-poly tropical island world.\n\n## Included\n- Terrain and water\n- Beach\n- Village with 2 houses\n- Forest\n- Paths\n- Harbor/dock\n- Lighthouse\n- Spawn marker\n\nImport `azurehaven_island.obj` with `azurehaven_island.mtl`.\n
