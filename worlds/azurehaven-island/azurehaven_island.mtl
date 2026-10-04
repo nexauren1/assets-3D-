@@ -1,0 +1,1 @@
+newmtl water\nKd 0.14 0.51 0.73\n\nnewmtl grass\nKd 0.28 0.59 0.30\n\nnewmtl sand\nKd 0.85 0.75 0.49\n\nnewmtl road\nKd 0.64 0.48 0.29\n\nnewmtl wall\nKd 0.93 0.88 0.77\n\nnewmtl roof\nKd 0.62 0.26 0.16\n\nnewmtl glass\nKd 0.37 0.69 0.77\n\nnewmtl wood\nKd 0.49 0.31 0.17\n\nnewmtl stone\nKd 0.55 0.57 0.54\n\nnewmtl red\nKd 0.72 0.20 0.16\n\nnewmtl white\nKd 0.93 0.94 0.89\n\n
